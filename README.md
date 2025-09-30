@@ -39,5 +39,5 @@
 ---
 
 ## 📫 Conecta conmigo
-- 💼 [LinkedIn](www.linkedin.com/in/juan-camilo-mendoza99)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-camilo-mendoza99)  
 - 📧 Email: juan.camilo.mendoza99@gmail.com
