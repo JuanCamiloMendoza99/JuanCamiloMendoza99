@@ -1,39 +1,43 @@
-# 👋 Hola, soy Juan Mendoza  
+# 👋 Hola, soy Juan Camilo Mendoza Bernal  
+# 👋 Hi, I'm Juan Camilo Mendoza Bernal  
 
-💻 **Desarrollador de Software | Ingeniería de Sistemas**  
-Apasionado por la tecnología, la automatización y la creación de soluciones que simplifiquen procesos.  
-
----
-
-## 🚀 Sobre mí
-- 🔎 Actualmente trabajando en proyectos de **automatización con Python** y **desarrollo web**.  
-- 📊 Experiencia en manejo de **bases de datos MySQL** y optimización de consultas.  
-- 🤖 Experiencia en proyectos **RPA** (automatización de procesos) con `pywinauto` y OCR.  
-- ⚡ Interés en **FastAPI**, **Node.js** y arquitectura de APIs.  
-- 🎮 Fan de los videojuegos y de crear proyectos por hobby para aprender nuevas tecnologías.  
+💻 **Fullstack & Automation Developer | Desarrollador Fullstack & Automatización**  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
-- **Lenguajes:** Python, JavaScript, TypeScript, SQL  
-- **Frameworks:** FastAPI, Node.js, Angular  
-- **Bases de datos:** MySQL, SQLite  
-- **Automatización:** Pywinauto, OCR, RPA, Scripting  
-- **Otros:** Git, Docker, Linux  
+## 🌎 Lenguajes / Languages  
+- [Español](#-sobre-mí)  
+- [English](#-about-me)  
 
 ---
 
-## 📈 Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JuanCamiloMendoza99&show_icons=true&theme=radical)  
+## 🚀 Sobre mí  
+- 🌍 Experiencia en proyectos internacionales con clientes en **Estados Unidos**, trabajando en inglés y en equipos remotos.  
+- 🖥️ Especializado en **backend con Node.js y TypeScript** y en **frontend con Angular y React**.  
+- 🤖 Experto en **scraping, RPA y automatización** con Python y TypeScript (Playwright, Selenium, Pywinauto).  
+- ☁️ Conocimiento en **AWS (EC2, S3)** y aprendizaje en **GCP (Cloud Run, Workflows)**.  
+- 📚 Actualmente **estudiando Java**, mejorando mis habilidades en **backend con Python** y profundizando en **React**.  
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamiloMendoza99&layout=compact&theme=radical)  
+---
+
+## 🚀 About me  
+- 🌍 Experience in international projects with clients in the **United States**, working in English and remote teams.  
+- 🖥️ Specialized in **backend with Node.js and TypeScript** and **frontend with Angular and React**.  
+- 🤖 Skilled in **scraping, RPA and automation** with Python and TypeScript (Playwright, Selenium, Pywinauto).  
+- ☁️ Knowledge of **AWS (EC2, S3)** and currently learning **GCP (Cloud Run, Workflows)**.  
+- 📚 Currently **studying Java**, improving my **Python backend development** skills and going deeper into **React**.  
+
+---
+
+## 🛠️ Tecnologías y Herramientas | Tech & Tools  
+- **Lenguajes / Languages:** Python, JavaScript, TypeScript, Java, SQL  
+- **Frameworks:** FastAPI, Node.js, NestJS, Angular, React, Hono  
+- **Automatización / Automation:** Playwright, Selenium, Pywinauto, RPA  
+- **Bases de datos / Databases:** PostgreSQL, MySQL, SQLite  
+- **Infraestructura / Infra:** Git, Docker, AWS, GCP (learning)  
 
 ---
 
 ## 📫 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-mendoza)  
-- 📧 Email: juanmendoza@example.com  
-
----
-
-⭐️ **Siempre abierto a colaborar en proyectos interesantes y aprender cosas nuevas.**
+- 💼 [LinkedIn](www.linkedin.com/in/juan-camilo-mendoza99)  
+- 📧 Email: juan.camilo.mendoza99@gmail.com
