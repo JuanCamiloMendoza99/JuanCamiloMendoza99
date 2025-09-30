@@ -24,9 +24,9 @@ Apasionado por la tecnología, la automatización y la creación de soluciones q
 ---
 
 ## 📈 Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juan-mendoza&show_icons=true&theme=radical)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JuanCamiloMendoza99&show_icons=true&theme=radical)  
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-mendoza&layout=compact&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCamiloMendoza99&layout=compact&theme=radical)  
 
 ---
 
