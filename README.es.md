@@ -47,8 +47,8 @@ En el camino he acompañado a desarrolladores nuevos, hecho code reviews y atend
     <td width="50%" valign="top"><b>⚙️ Backend</b><br><br>
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
       <img src="assets/icons/hono.svg" height="48" alt="Hono">
-      <img src="https://skillicons.dev/icons?i=express,nestjs,fastapi" alt="Express, NestJS y FastAPI"><br>
-      <sub>Node.js · Hono · Express · NestJS · FastAPI · REST APIs</sub>
+      <img src="https://skillicons.dev/icons?i=express,nestjs,fastapi,flask" alt="Express, NestJS, FastAPI y Flask"><br>
+      <sub>Node.js · Hono · Express · NestJS · FastAPI · Flask · REST APIs</sub>
     </td>
     <td width="50%" valign="top"><b>🎨 Frontend</b><br><br>
       <img src="https://skillicons.dev/icons?i=react,angular,html,css" alt="React, Angular, HTML y CSS"><br>
