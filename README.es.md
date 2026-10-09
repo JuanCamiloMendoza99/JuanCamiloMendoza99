@@ -21,11 +21,13 @@
 Construyo productos web desde la base de datos hasta la interfaz, y sumo automatización y agentes de IA
 cuando el problema lo pide. Mi trabajo más reciente fue en la plataforma de una startup automotriz de
 Estados Unidos, en inglés y con un equipo remoto.
+En el camino he acompañado a desarrolladores nuevos, hecho code reviews y atendido incidentes en producción.
 
 ## 🏆 Logros desbloqueados
 
 | | Logro | Cómo se ganó |
 |:---:|---|---|
+| 📈 | **Puntaje alto**: cerca de 500 candidatos registrados en dos meses | Herramientas de sourcing con IA adoptadas por al menos 5 personas de Talent Engineering y RR. HH., que reciben una lista corta calificada con el motivo de cada contacto |
 | ⚡ | **Speedrun**: consultas pesadas de unos 10 minutos a 2–3 segundos | Jobs nocturnos en AWS Lambda que precalculan y cachean resultados sobre millones de anuncios de vehículos |
 | 🤖 | **Equipo de siete**: 7 pipelines de sourcing corriendo en paralelo | Orquestación multiagente con Claude Code, servidores MCP y automatización de navegador, con aprobación humana antes de enviar cualquier mensaje |
 | 🛡️ | **Reducción de daño**: cerca de 80 % menos errores de agentes, medido por el cliente | Una aplicación web con automatización sobre el sistema legado de un operador de telecomunicaciones, usada por unos 200 agentes de call center |
@@ -34,15 +36,52 @@ Estados Unidos, en inglés y con un equipo remoto.
 
 ## 🧰 Equipamiento
 
-| Ranura | Equipado |
-|---|---|
-| **Lenguajes** | TypeScript · Python · JavaScript · SQL · Java |
-| **Backend** | Node.js · Hono · Express · NestJS · FastAPI |
-| **Frontend** | React · Angular · HTML · CSS |
-| **Datos** | PostgreSQL · PostGIS · MySQL · Redshift · Apache Airflow |
-| **Nube y entrega** | AWS (Lambda, Step Functions, S3, EC2) · Docker · GitHub Actions · pytest |
-| **IA / LLM** | API de Anthropic · API de OpenAI · MCP · tool calling · prompt caching · evals · RAG |
-| **Automatización** | Playwright · Selenium · Pywinauto · web scraping |
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>⌨️ Lenguajes</b><br><br>
+      <img src="https://skillicons.dev/icons?i=ts,py,js,java" alt="TypeScript, Python, JavaScript y Java"><br>
+      <sub>TypeScript · Python · JavaScript · SQL · Java</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>⚙️ Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+      <img src="assets/icons/hono.svg" height="48" alt="Hono">
+      <img src="https://skillicons.dev/icons?i=express,nestjs,fastapi" alt="Express, NestJS y FastAPI"><br>
+      <sub>Node.js · Hono · Express · NestJS · FastAPI · REST APIs</sub>
+    </td>
+    <td width="50%" valign="top"><b>🎨 Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,angular,html,css" alt="React, Angular, HTML y CSS"><br>
+      <sub>React · Angular · HTML · CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🗄️ Datos</b><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
+      <img src="assets/icons/mysql.svg" height="48" alt="MySQL">
+      <img src="assets/icons/airflow.svg" height="48" alt="Apache Airflow"><br>
+      <sub>PostgreSQL · PostGIS · MySQL · Redshift · Apache Airflow</sub>
+    </td>
+    <td valign="top"><b>☁️ Nube y entrega</b><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" alt="AWS, Docker, GitHub Actions y Git">
+      <img src="assets/icons/pytest.svg" height="48" alt="pytest"><br>
+      <sub>AWS (Lambda, Step Functions, S3, EC2) · Docker · GitHub Actions · CI/CD · Git · pytest</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🧠 IA / LLM</b><br><br>
+      <img src="assets/icons/anthropic.svg" height="48" alt="Anthropic">
+      <img src="assets/icons/openai.svg" height="48" alt="OpenAI">
+      <img src="assets/icons/mcp.svg" height="48" alt="Model Context Protocol"><br>
+      <sub>API de Anthropic · API de OpenAI · MCP · agentes de IA · tool calling · prompt caching · evals de LLM · RAG</sub>
+    </td>
+    <td valign="top"><b>🔁 Automatización</b><br><br>
+      <img src="assets/icons/playwright.svg" height="48" alt="Playwright">
+      <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium"><br>
+      <sub>Playwright · Selenium · Pywinauto · web scraping · RPA</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🗺️ Registro de misiones
 
@@ -52,7 +91,20 @@ Estados Unidos, en inglés y con un equipo remoto.
 | 2025 – 2026 | **Full Stack Engineer** · Niuro | Plataforma de mercado de vehículos para una startup automotriz de EE. UU.: tres aplicaciones web, flujos de datos serverless y pipelines en Airflow |
 | 2024 – 2025 | **Automation Developer** · Montechelo Technology | Pipeline de OCR, aplicaciones full stack y automatización de navegador para clientes de seguros y telecomunicaciones |
 | 2022 – 2024 | **Analista RPA I → IV** · GroupCOS | Desarrollo full stack y automatización para campañas de call center, de principio a fin |
-| 2020 – 2022 | **Soporte de TI y luego operaciones de seguridad** | Redes, firewalls y monitoreo 24/7, de donde vienen mis hábitos de confiabilidad |
+| 2020 – 2022 | **Soporte de TI y luego operaciones de seguridad** | Soporte de red en sitio y luego monitoreo de cerca de 300 firewalls (Fortinet, Palo Alto) en turnos 24/7, de donde vienen mis hábitos de confiabilidad |
+
+## 🎓 Academia
+
+| Etapa | Programa | Institución |
+|---|---|---|
+| 2023 – 2027 | **Ingeniería de Sistemas** · en curso, grado previsto para marzo de 2027 | UNIMINUTO, Bogotá |
+| 2019 – 2022 | **Tecnología en Informática** | UNIMINUTO, Bogotá |
+| 2017 – 2018 | **Técnico en Sistemas** | SENA, Bogotá |
+
+Certificaciones: Full Stack Developer Certified Specialist (ITCertificate, 2026) ·
+Front End Developer Certified Associate (ITCertificate, 2026) ·
+Back End Developer Certified Professional (ITCertificate, 2021) ·
+Frontend Developer (Platzi, 2025) · Docker (Udemy, 2024) · JavaScript y Python (Platzi, 2021)
 
 ## 🕹️ Builds destacados
 
